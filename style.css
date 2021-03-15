@@ -1,0 +1,38 @@
+#content {
+  width:300px;
+  display:block;
+  margin:auto;
+}
+#you, #computer {
+    padding:5px;
+    font-size:20px;
+}
+hr {
+    margin:10px;
+}
+body {
+    font-family:sans-serif;
+}
+h1 {
+    text-align: center;
+    font-size:25px;
+}
+p {
+    text-align: center;
+    padding:20px;
+    font-size:30px;
+}
+.flex-container {
+    display:flex;
+    justify-content: space-around;
+}
+button {
+    font-size:12px;
+    border-radius:7px;
+    padding:10px;
+}
+button:hover {
+    outline:none;
+    background-color:black;
+    color:white;
+}
